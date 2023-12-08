@@ -29,7 +29,7 @@ export default async function Post({ params }) {
             <p>{post.body}</p>
           </>
         ) : (
-          "Loading ..."
+          "Loading..."
         )}
       </div>
       <Link href="/posts">All Posts</Link>
