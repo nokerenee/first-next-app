@@ -1,5 +1,4 @@
 import Link from "next/link";
-import styles from "../page.module.css"
 
 // Updated page.jsx: <main> layout structure moved to layout.jsx
 export default function About() {
